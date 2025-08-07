@@ -1,0 +1,12 @@
+--- Loan Application Summary ---
+
+Application ID: 68476592
+Loan Amount: $12,000.00
+Loan Term:  36 months
+Loan Grade: B
+Employment Length: 2 years
+Home Ownership: RENT
+Annual Income: $39,500.00
+Debt-to-Income Ratio: 25.43
+FICO Score (low): 725.0
+Loan Status: Fully Paid

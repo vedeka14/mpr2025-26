@@ -1,0 +1,12 @@
+--- Loan Application Summary ---
+
+Application ID: 68543413
+Loan Amount: $10,000.00
+Loan Term:  36 months
+Loan Grade: C
+Employment Length: 4 years
+Home Ownership: MORTGAGE
+Annual Income: $91,392.00
+Debt-to-Income Ratio: 9.44
+FICO Score (low): 710.0
+Loan Status: Fully Paid

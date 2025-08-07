@@ -1,0 +1,12 @@
+--- Loan Application Summary ---
+
+Application ID: 68575726
+Loan Amount: $12,000.00
+Loan Term:  60 months
+Loan Grade: B
+Employment Length: 10+ years
+Home Ownership: OWN
+Annual Income: $56,000.00
+Debt-to-Income Ratio: 25.98
+FICO Score (low): 705.0
+Loan Status: Charged Off

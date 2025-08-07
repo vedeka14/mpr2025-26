@@ -1,0 +1,12 @@
+--- Loan Application Summary ---
+
+Application ID: 68376953
+Loan Amount: $20,000.00
+Loan Term:  36 months
+Loan Grade: C
+Employment Length: 10+ years
+Home Ownership: MORTGAGE
+Annual Income: $78,000.00
+Debt-to-Income Ratio: 27.1
+FICO Score (low): 705.0
+Loan Status: Charged Off

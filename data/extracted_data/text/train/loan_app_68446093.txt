@@ -1,0 +1,12 @@
+--- Loan Application Summary ---
+
+Application ID: 68446093
+Loan Amount: $11,550.00
+Loan Term:  60 months
+Loan Grade: D
+Employment Length: 5 years
+Home Ownership: RENT
+Annual Income: $38,000.00
+Debt-to-Income Ratio: 21.07
+FICO Score (low): 700.0
+Loan Status: Charged Off

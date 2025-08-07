@@ -1,0 +1,12 @@
+--- Loan Application Summary ---
+
+Application ID: 68375365
+Loan Amount: $32,400.00
+Loan Term:  60 months
+Loan Grade: B
+Employment Length: 10+ years
+Home Ownership: MORTGAGE
+Annual Income: $106,284.00
+Debt-to-Income Ratio: 24.11
+FICO Score (low): 730.0
+Loan Status: Current

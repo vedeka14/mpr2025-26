@@ -1,0 +1,12 @@
+--- Loan Application Summary ---
+
+Application ID: 67969431
+Loan Amount: $12,000.00
+Loan Term:  36 months
+Loan Grade: A
+Employment Length: 3 years
+Home Ownership: MORTGAGE
+Annual Income: $72,500.00
+Debt-to-Income Ratio: 2.71
+FICO Score (low): 745.0
+Loan Status: Fully Paid

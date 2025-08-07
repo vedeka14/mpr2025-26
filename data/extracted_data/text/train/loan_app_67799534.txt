@@ -1,0 +1,12 @@
+--- Loan Application Summary ---
+
+Application ID: 67799534
+Loan Amount: $21,600.00
+Loan Term:  36 months
+Loan Grade: C
+Employment Length: 9 years
+Home Ownership: MORTGAGE
+Annual Income: $54,000.00
+Debt-to-Income Ratio: 17.64
+FICO Score (low): 690.0
+Loan Status: Fully Paid

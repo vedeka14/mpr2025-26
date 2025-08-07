@@ -122,7 +122,7 @@ try:
             | StrOutputParser()
         )
         
-        user_question = st.text_input("Ask a question about the first 5 loan applications:")
+        user_question = st.text_input("Ask a question about the loan data:")
         
         if user_question:
             # Check for API key

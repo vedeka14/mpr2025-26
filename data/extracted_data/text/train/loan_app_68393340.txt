@@ -1,0 +1,12 @@
+--- Loan Application Summary ---
+
+Application ID: 68393340
+Loan Amount: $13,150.00
+Loan Term:  36 months
+Loan Grade: A
+Employment Length: 1 year
+Home Ownership: RENT
+Annual Income: $40,000.00
+Debt-to-Income Ratio: 20.25
+FICO Score (low): 765.0
+Loan Status: Fully Paid

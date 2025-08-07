@@ -1,0 +1,12 @@
+--- Loan Application Summary ---
+
+Application ID: 68385791
+Loan Amount: $28,000.00
+Loan Term:  60 months
+Loan Grade: E
+Employment Length: 10+ years
+Home Ownership: RENT
+Annual Income: $84,000.00
+Debt-to-Income Ratio: 37.26
+FICO Score (low): 700.0
+Loan Status: Charged Off

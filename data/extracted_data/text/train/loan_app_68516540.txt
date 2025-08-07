@@ -1,0 +1,12 @@
+--- Loan Application Summary ---
+
+Application ID: 68516540
+Loan Amount: $12,000.00
+Loan Term:  60 months
+Loan Grade: A
+Employment Length: 8 years
+Home Ownership: MORTGAGE
+Annual Income: $75,000.00
+Debt-to-Income Ratio: 6.4
+FICO Score (low): 750.0
+Loan Status: Fully Paid

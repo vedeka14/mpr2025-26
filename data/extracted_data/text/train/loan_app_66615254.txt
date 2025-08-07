@@ -1,0 +1,12 @@
+--- Loan Application Summary ---
+
+Application ID: 66615254
+Loan Amount: $7,200.00
+Loan Term:  36 months
+Loan Grade: D
+Employment Length: 9 years
+Home Ownership: OWN
+Annual Income: $20,000.00
+Debt-to-Income Ratio: 13.21
+FICO Score (low): 705.0
+Loan Status: Charged Off

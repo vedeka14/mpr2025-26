@@ -1,0 +1,12 @@
+--- Loan Application Summary ---
+
+Application ID: 68436917
+Loan Amount: $16,000.00
+Loan Term:  60 months
+Loan Grade: C
+Employment Length: 10+ years
+Home Ownership: OWN
+Annual Income: $90,000.00
+Debt-to-Income Ratio: 6.39
+FICO Score (low): 700.0
+Loan Status: Current
